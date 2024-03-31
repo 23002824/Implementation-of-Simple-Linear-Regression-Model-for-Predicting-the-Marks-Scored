@@ -64,12 +64,39 @@ RegisterNumber:212223240022
 ```
 
 ## Output:
-![alt text](o1.png)
+df.head()
+
+
+![](o1.png)
+
+df.tail()
+
+![alt text](<Screenshot 2024-03-31 215934.png>)
+
+Values of X:
+
 ![alt text](o2.png)
+
+Values of Y:
+
 ![alt text](o3.png)
+
+Values of Y prediction:
+
+
 ![alt text](o4.png)
+
+Training set graph:
+
+
 ![alt text](o5.png)
+
+Test set graph:
+
 ![alt text](o6.png)
+
+Value of MSE,MAE & RMSE:
+
 ![alt text](o7.png)
 
 
